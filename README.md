@@ -13,7 +13,6 @@ This repository contains a scalable data pipeline for predicting crime hotspots 
 - Apache Airflow
 - Hadoop HDFS
 - Superset
-- Leaflet.js
 
 ## Directory Structure
 

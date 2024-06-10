@@ -19,7 +19,7 @@ This repository contains a scalable data pipeline for predicting crime hotspots 
 
 - `docker/` - Docker configurations for each component.
 - `kubernetes/` - Kubernetes deployment and service files.
-- `scripts/` - Python scripts for data ingestion, processing, feature engineering, and orchestration.
+- `data_platform/` - Python scripts for data ingestion, processing, feature engineering, and orchestration.
 
 ## Contributing
 
